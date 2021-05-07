@@ -10,8 +10,8 @@
 // const activeProjectList = new ProjectList('active');
 // const doneProjectList = new ProjectList('finished');
 
-import { ProjectInput } from './components/project-input.js';
-import { ProjectList } from './components/project-list.js';
+import { ProjectInput } from './components/project-input';
+import { ProjectList } from './components/project-list';
 
 //in namespace usage
 new ProjectInput();
